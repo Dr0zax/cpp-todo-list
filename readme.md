@@ -78,3 +78,6 @@ This project is provided as-is under the MIT License. See `LICENSE` if present o
 
 If you have questions about this example, open an issue on the repository.
 
+### Sources Used
+
+https://www.w3schools.com/cpp/cpp_iterators.asp
